@@ -1,0 +1,6 @@
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio 1 23.02\exercicio 1 23.02\obj\Debug\net6.0-windows\exercicio_1_23._02.Form1.resources
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio 1 23.02\exercicio 1 23.02\obj\Debug\net6.0-windows\exercicio 1 23.02.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio 1 23.02\exercicio 1 23.02\obj\Debug\net6.0-windows\exercicio 1 23.02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio 1 23.02\exercicio 1 23.02\obj\Debug\net6.0-windows\exercicio 1 23.02.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio 1 23.02\exercicio 1 23.02\obj\Debug\net6.0-windows\exercicio 1 23.02.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio 1 23.02\exercicio 1 23.02\obj\Debug\net6.0-windows\exercicio 1 23.02.csproj.CoreCompileInputs.cache
