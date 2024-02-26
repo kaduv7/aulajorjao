@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 3\Exercício 3\obj\Debug\net6.0-windows\Exercício_3.Form1.resources
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 3\Exercício 3\obj\Debug\net6.0-windows\Exercício 3.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 3\Exercício 3\obj\Debug\net6.0-windows\Exercício 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 3\Exercício 3\obj\Debug\net6.0-windows\Exercício 3.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 3\Exercício 3\obj\Debug\net6.0-windows\Exercício 3.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 3\Exercício 3\obj\Debug\net6.0-windows\Exercício 3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 3\Exercício 3\obj\Debug\net6.0-windows\Exercício 3.sourcelink.json
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 3\Exercício 3\bin\Debug\net6.0-windows\Exercício 3.exe
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 3\Exercício 3\bin\Debug\net6.0-windows\Exercício 3.deps.json
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 3\Exercício 3\bin\Debug\net6.0-windows\Exercício 3.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 3\Exercício 3\bin\Debug\net6.0-windows\Exercício 3.dll
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 3\Exercício 3\bin\Debug\net6.0-windows\Exercício 3.pdb
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 3\Exercício 3\obj\Debug\net6.0-windows\Exercício 3.dll
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 3\Exercício 3\obj\Debug\net6.0-windows\refint\Exercício 3.dll
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 3\Exercício 3\obj\Debug\net6.0-windows\Exercício 3.pdb
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 3\Exercício 3\obj\Debug\net6.0-windows\Exercício 3.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 3\Exercício 3\obj\Debug\net6.0-windows\ref\Exercício 3.dll
