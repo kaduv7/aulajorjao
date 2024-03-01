@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio7\Exercício 8\Exercício 8\bin\Debug\net6.0-windows\Exercício 8.exe
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio7\Exercício 8\Exercício 8\bin\Debug\net6.0-windows\Exercício 8.deps.json
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio7\Exercício 8\Exercício 8\bin\Debug\net6.0-windows\Exercício 8.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio7\Exercício 8\Exercício 8\bin\Debug\net6.0-windows\Exercício 8.dll
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio7\Exercício 8\Exercício 8\bin\Debug\net6.0-windows\Exercício 8.pdb
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio7\Exercício 8\Exercício 8\obj\Debug\net6.0-windows\Exercício_8.Form1.resources
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio7\Exercício 8\Exercício 8\obj\Debug\net6.0-windows\Exercício 8.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio7\Exercício 8\Exercício 8\obj\Debug\net6.0-windows\Exercício 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio7\Exercício 8\Exercício 8\obj\Debug\net6.0-windows\Exercício 8.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio7\Exercício 8\Exercício 8\obj\Debug\net6.0-windows\Exercício 8.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio7\Exercício 8\Exercício 8\obj\Debug\net6.0-windows\Exercício 8.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio7\Exercício 8\Exercício 8\obj\Debug\net6.0-windows\Exercício 8.sourcelink.json
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio7\Exercício 8\Exercício 8\obj\Debug\net6.0-windows\Exercício 8.dll
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio7\Exercício 8\Exercício 8\obj\Debug\net6.0-windows\refint\Exercício 8.dll
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio7\Exercício 8\Exercício 8\obj\Debug\net6.0-windows\Exercício 8.pdb
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio7\Exercício 8\Exercício 8\obj\Debug\net6.0-windows\Exercício 8.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercicio7\Exercício 8\Exercício 8\obj\Debug\net6.0-windows\ref\Exercício 8.dll
