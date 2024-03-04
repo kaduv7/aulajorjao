@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 9\Exercício 9\bin\Debug\net6.0-windows\Exercício 9.exe
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 9\Exercício 9\bin\Debug\net6.0-windows\Exercício 9.deps.json
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 9\Exercício 9\bin\Debug\net6.0-windows\Exercício 9.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 9\Exercício 9\bin\Debug\net6.0-windows\Exercício 9.dll
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 9\Exercício 9\bin\Debug\net6.0-windows\Exercício 9.pdb
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 9\Exercício 9\obj\Debug\net6.0-windows\Exercício_9.Form1.resources
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 9\Exercício 9\obj\Debug\net6.0-windows\Exercício 9.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 9\Exercício 9\obj\Debug\net6.0-windows\Exercício 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 9\Exercício 9\obj\Debug\net6.0-windows\Exercício 9.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 9\Exercício 9\obj\Debug\net6.0-windows\Exercício 9.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 9\Exercício 9\obj\Debug\net6.0-windows\Exercício 9.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 9\Exercício 9\obj\Debug\net6.0-windows\Exercício 9.sourcelink.json
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 9\Exercício 9\obj\Debug\net6.0-windows\Exercício 9.dll
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 9\Exercício 9\obj\Debug\net6.0-windows\refint\Exercício 9.dll
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 9\Exercício 9\obj\Debug\net6.0-windows\Exercício 9.pdb
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 9\Exercício 9\obj\Debug\net6.0-windows\Exercício 9.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\Exercício 9\Exercício 9\obj\Debug\net6.0-windows\ref\Exercício 9.dll
