@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercício 10\exercício 10\bin\Debug\net6.0-windows\exercício 10.exe
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercício 10\exercício 10\bin\Debug\net6.0-windows\exercício 10.deps.json
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercício 10\exercício 10\bin\Debug\net6.0-windows\exercício 10.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercício 10\exercício 10\bin\Debug\net6.0-windows\exercício 10.dll
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercício 10\exercício 10\bin\Debug\net6.0-windows\exercício 10.pdb
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercício 10\exercício 10\obj\Debug\net6.0-windows\exercício_10.Form1.resources
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercício 10\exercício 10\obj\Debug\net6.0-windows\exercício 10.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercício 10\exercício 10\obj\Debug\net6.0-windows\exercício 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercício 10\exercício 10\obj\Debug\net6.0-windows\exercício 10.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercício 10\exercício 10\obj\Debug\net6.0-windows\exercício 10.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercício 10\exercício 10\obj\Debug\net6.0-windows\exercício 10.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercício 10\exercício 10\obj\Debug\net6.0-windows\exercício 10.sourcelink.json
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercício 10\exercício 10\obj\Debug\net6.0-windows\exercício 10.dll
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercício 10\exercício 10\obj\Debug\net6.0-windows\refint\exercício 10.dll
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercício 10\exercício 10\obj\Debug\net6.0-windows\exercício 10.pdb
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercício 10\exercício 10\obj\Debug\net6.0-windows\exercício 10.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\aulajorjao\exercício 10\exercício 10\obj\Debug\net6.0-windows\ref\exercício 10.dll
